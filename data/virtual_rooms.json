@@ -1,0 +1,76 @@
+[
+  {
+    "id": "vroom-1792112658203-3hv3s",
+    "code": "EK-PEPL",
+    "name": "Sala de Prueba Unitaria 🧪",
+    "description": "Probando creación de sala con código de acceso",
+    "type": "clase",
+    "status": "activa",
+    "teacherId": "teacher-main",
+    "teacherName": "Profesor 🎓",
+    "createdAt": "2026-10-16T01:04:18.203Z",
+    "updatedAt": "2026-10-16T01:15:58.143Z",
+    "participants": [
+      {
+        "studentId": "std-hugo",
+        "studentName": "Hugo López",
+        "studentUsername": "hugo",
+        "joinedAt": "2026-10-16T01:04:18.229Z",
+        "status": "Activo",
+        "lastSeen": "2026-10-16T01:04:18.234Z"
+      },
+      {
+        "studentId": "std-sofi",
+        "studentName": "Sofía Díaz",
+        "studentUsername": "sofi",
+        "joinedAt": "2026-10-16T01:15:58.143Z",
+        "status": "Activo",
+        "lastSeen": "2026-10-16T01:15:58.143Z"
+      }
+    ]
+  },
+  {
+    "id": "vroom-1792114068419-uuvza",
+    "code": "EK-5R9P",
+    "name": "Clase de matemáticas básicas",
+    "description": "Resolver ejercicios de suma",
+    "type": "actividad",
+    "status": "activa",
+    "teacherId": "user-1792113899604",
+    "teacherName": "Eva Rodriguez",
+    "createdAt": "2026-10-16T01:27:48.419Z",
+    "updatedAt": "2026-10-16T01:27:48.419Z",
+    "participants": [],
+    "assignedQuizId": "quiz-init-math"
+  },
+  {
+    "id": "vroom-1792114437883-5hg4d",
+    "code": "EK-GQ3Z",
+    "name": "Sala Auditoria 1",
+    "description": "Test de auditoria",
+    "type": "evaluacion",
+    "status": "cerrada",
+    "teacherId": "teacher-auditor",
+    "teacherName": "Docente Auditor",
+    "createdAt": "2026-10-16T01:33:57.883Z",
+    "updatedAt": "2026-10-16T01:34:30.534Z",
+    "participants": [
+      {
+        "studentId": "std-auditor-1",
+        "studentName": "Mateo Pérez",
+        "studentUsername": "mateo",
+        "joinedAt": "2026-10-16T01:34:10.903Z",
+        "status": "Activo",
+        "lastSeen": "2026-10-16T01:34:16.569Z"
+      },
+      {
+        "studentId": "std-auditor-2",
+        "studentName": "Lucía Gómez",
+        "studentUsername": "lucia",
+        "joinedAt": "2026-10-16T01:34:20.125Z",
+        "status": "Activo",
+        "lastSeen": "2026-10-16T01:34:20.125Z"
+      }
+    ]
+  }
+]

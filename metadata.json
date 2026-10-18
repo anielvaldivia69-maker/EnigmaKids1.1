@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix: Remix: Remix: Enigmakids",
+  "description": "Sitio web educativo e interactivo para niños con juegos de matemáticas, lengua, ciencias naturales, filosofía y datos curiosos.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
